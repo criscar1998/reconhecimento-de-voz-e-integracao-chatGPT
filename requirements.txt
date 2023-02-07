@@ -1,0 +1,5 @@
+speech_recognition
+gTTS
+pygame
+openai
+uuid
