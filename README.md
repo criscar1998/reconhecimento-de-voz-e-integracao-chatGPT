@@ -15,6 +15,7 @@ depois de todas as bibliotecas instaladas falta apenas rodar o script
 py voice_recognition.py
 ```
 
+agora é só se divertir.
 
 ## Licença
 
